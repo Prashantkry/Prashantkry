@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact:- Movie based on hacking and web site making
 
 
-<h2>Connect with me </h2>
+<h2 style="text-alignment:center">Connect with me </h2>
