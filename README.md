@@ -1,9 +1,18 @@
-### Hi there 👋
+
 
 <!--
 **Prashantkry/Prashantkry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 -->
+<h1>Hi 👋, I'm Prashant Kumar </h1>
+<h2>My work lives in a digital environment and is nurtured by the love of designing and developing.
+
+By combining my creativity and skills I create interactive pages and add a life for websites.
+
+I draw my inspiration from the madness of daily designing and building
+
+it going through on contemporary bugs and everlasting love for developing.
+</h2>
 
 - 🔭 I’m currently working as Front End Web Developer 
 -🌱 I’m currently pursuing B.tech CSE 
