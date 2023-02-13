@@ -18,7 +18,8 @@ it going through on contemporary bugs and everlasting love for developing.
   Skills 
 </h2>
 
-*
+https://www.freepik.com/free-vector/hand-drawn-web-developers_12063795.htm#query=Web%20Developer&position=6&from_view=search&track=ais
+
 - 🔭 I’m currently working as Front End Web Developer 
 -🌱 I’m currently pursuing B.tech CSE 
 -👯 I’m looking to collaborate on C++, Python, Frontend, DSA
