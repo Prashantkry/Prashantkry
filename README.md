@@ -13,7 +13,7 @@ I draw my inspiration from the madness of daily designing and building
 
 it going through on contemporary bugs and everlasting love for developing.
 </h5>
-<img src="https://www.freepik.com/free-vector/hand-drawn-web-developers_12063795.htm#query=Web%20Developer&position=6&from_view=search&track=ais" alt="Prashant">
+
 <h2>
   Skills 
 </h2>
