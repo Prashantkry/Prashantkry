@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prashantkry&label=Profile%20views&color=0e75b6&style=flat" alt="prashantkry" /> </p>
 
-- 🔭 I’m currently working on **Mern Stack Website**
+- 🔭 I’m currently working on **MERN Stack and Generative AI Website**
 
 - 🌱 I’m currently learning **Node Js**
 
-- 👯 I’m looking to collaborate on **C++, Front-end web development, DSA**
+- 👯 I’m looking to collaborate on **C++, MERN / MEAN stack development, DSA**
 
-- 💬 Ask me about **C++, Frontend Development , DSA**
+- 💬 Ask me about **C++, MERN / MEAN stack Development , DSA**
 
 - 📫 How to reach me **prashantkry745@gmail.com**
 
