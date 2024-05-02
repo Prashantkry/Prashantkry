@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **MERN Stack and Generative AI Website**
 
-- 🌱 I’m currently learning **Node Js**
+- 🌱 I’m currently learning **Angular Framework**
 
 - 👯 I’m looking to collaborate on **C++, MERN / MEAN stack development, DSA**
 
